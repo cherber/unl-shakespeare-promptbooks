@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<body>
+<!-- This is the handwritten cast list- immediately following the printed DRAMATIS PERSONAE -->
+    <castList>
+    <castItem>
+        <role>Timon</role>
+        <actor>Kean</actor>
+    </castItem>
+    <castItem>
+        <role>Lucius</role>
+        <actor><del rend="strikethrough">Knight</del></actor>
+        <actor>Harley</actor>
+    </castItem>
+    <castItem>
+        <role>Lucullus</role>
+        <actor><del rend="strikethrough">Harley</del></actor>
+        <actor>T. Penley</actor>
+    </castItem>
+    <castItem>
+        <role>Apemantus</role>
+        <actor>Murden</actor>
+    </castItem>
+    <castItem>
+        <role>Sempronius</role>
+        <actor><del rend="strikethrough">Bengough</del></actor>
+        <actor><del rend="strikethrough">T. Penley</del></actor>
+        <actor>Barand</actor>
+    </castItem>
+    <castItem>
+        <role>Alcibiades</role>
+        <actor>Wallack</actor>
+    </castItem>
+    <castItem>
+        <role>Flavius</role>
+        <actor>Holland</actor>
+    </castItem>
+    <castItem>
+        <role>Flaminius</role>
+        <actor>Barand</actor>
+    </castItem>
+    <castItem>
+        <role>Servilius</role>
+        <actor><del rend="strikethrough">Kent</del></actor>
+        <actor>Coveney</actor>
+    </castItem>
+    <castItem>
+        <role>Caphis</role>
+        <actor>Y. Smith</actor>
+    </castItem>
+    <castItem>
+        <role>Varro</role>
+        <actor><del rend="strikethrough">Coveney</del></actor>
+        <actor>Yhanth</actor>
+    </castItem>
+    <castItem>
+        <role>Philo</role>
+        <actor></actor>
+    </castItem>
+    <castItem>
+        <role>1st Senator</role>
+        <actor>Powell</actor>
+    </castItem>
+    <castItem>
+        <role>2d Senator</role>
+        <actor>Yathe</actor>
+    </castItem>
+    <castItem>
+        <role>Poet</role>
+        <actor>Hughes</actor>
+    </castItem>
+    <castItem>
+        <role>Painter</role>
+        <actor>Minton</actor>
+    </castItem>
+    <castItem>
+        <role>Jeweller</role>
+        <actor>J. Smith</actor>
+    </castItem>
+    <castItem>
+        <role>Merchant</role>
+        <actor><del rend="strikethrough">Ekanth</del></actor>
+        <actor>Marshall</actor>
+    </castItem>
+    <castItem>
+        <role>Old Athenian</role>
+        <actor>Caw</actor>
+    </castItem>
+    <castItem>
+        <role>Messenger from Ventidius</role>
+        <actor>Miller</actor>
+    </castItem>
+    <castItem>
+        <role>1st Thief</role>
+        <actor>Cooke</actor>
+    </castItem>
+    <castItem>
+        <role>2d Thief</role>
+        <actor></actor>
+    </castItem>
+    <castItem>
+        <role>Soldier</role>
+        <actor></actor>
+    </castItem>
+    <castItem>
+        <role>Servant to Lucullus</role>
+        <actor></actor>
+    </castItem>
+    <pb>
+        <castItem>
+            <del rend="strikethrough"><role>Timandra</role>
+                <actor>Mi&#643; Cooke</actor></del>
+        </castItem>
+        <castItem>
+            <del rend="strikethrough"><role>Phrynia</role>
+                <actor>Mi&#643; Ivers</actor></del>
+        </castItem>
+        <msStageDir> ^- Enter Jeweller and Merchant and other Suitors loping over.</msStageDir>
+        <msStageDir> ^^ - Exuent Jeweller and Merchant.</msStageDir>
+    </pb>
+</castList>
+
+<pb>
+  <!-- This page is handwritten, and is to the immediate right of printed page 136 -->  
+    <msScript><LINE>^ each thing's a thief. No laws, your curb and whip, in their rough caves</LINE>
+    <LINE>Have uncheck'd theft.</LINE>
+    <StageDir>Timon seated in the entrance of his cave.</StageDir></msScript>
+</pb>
+    
+    <pb>
+        <!-- Handwritten note on blank page after printed page 146 -->
+        <msStageDir>(x2. Would not a battering ram brought in have a good effect?)</msStageDir>
+    </pb>
+    
+    <pb>
+        <!-- Handwritten note on blank page to the left of printed page 147 -->
+        <msStageDir> 1. Sen.</msStageDir>
+        <pb>
+            <!-- Handwritten dialogue on blank page right of printed page 148 -->
+            <msStageDir> ^- The gates open</msStageDir>
+            <msStageDir> -Senators 2c come forth, and kneeling deliver the keys of the town to Alcibiades</msStageDir>
+            <msStageDir> Flourish of Trumpets</msStageDir>
+            
+            <msScript><SPEECH><SPEAKER>Alcibiades</SPEAKER>
+            <LINE>yet all's not done</LINE>
+            <LINE>Vengeance must work. Where is that loathsome crew,</LINE>
+            <LINE>Whose black ingratitude commands the heart of Athen' noblest son</LINE></SPEECH>
+                
+            <SPEECH><SPEAKER>1st Senator</SPEAKER>
+            <LINE>They wait your doom.</LINE>
+            <LINE>Guard them hither.</LINE></SPEECH>
+            </msScript>
+            
+            <msStageDir>Lucius, Lucullus, Sempronius and others of Timon's former friends brought in bound</msStageDir>
+            <msScript><SPEECH><SPEAKER>Alcibiades</SPEAKER>
+                
+            <LINE>Now love dissembling villains</LINE>
+            <LINE>Ye look'd more cheerly, when I found you guests</LINE>
+            <LINE>At Timon's feast- While on his wealth ye throve,</LINE>
+            <LINE>And his full coffers like his heart, stand open</LINE>
+            <LINE>To your fine use.</LINE></SPEECH>
+            </msScript>
+    </pb>
+        
+        <pb>
+            <!-- Handwritten dialogue on the blank page two after printed page 148 -->
+            <msScript><SPEECH><SPEAKER>Sempronius</SPEAKER>
+            <LINE>These are your doings, ye vindictive gods.</LINE>
+            <LINE>I see you wise against ingratitude,</LINE>
+            <LINE>And push us from the earth; I have deserv'd it.</LINE></SPEECH>
+                
+            <SPEECH><SPEAKER>Lucius</SPEAKER>
+            <LINE>What law can judge the heart? - What is my fault?</LINE></SPEECH>
+                
+            <SPEECH><SPEAKER>Alcibiades</SPEAKER>
+            <LINE>What Fault! -- Oh heartless slaves ye did deny</LINE>
+            <LINE>Lord Timon certain vile and sorry drachmas</LINE>
+                <LINE>In his distre&#643;; now Timon's star prevails,</LINE>
+            <LINE>And justice wrings your treasures from your gripe.</LINE></SPEECH>
+                
+            <SPEECH><SPEAKER>Lucius</SPEAKER>
+            <LINE>What all my wealth, my pictures, statues, coin</LINE>
+            <LINE>Plate, jewels, gems ----</LINE></SPEECH>
+                
+            <SPEECH><SPEAKER>Lucullus</SPEAKER>
+            <LINE>Yet spare, Oh mighty chief,</LINE>
+            <LINE>All your need craves rot. I've a mine of gold</LINE>
+            <LINE>A magazine to sack or save a city.</LINE></SPEECH>
+                
+            <SPEECH><SPEAKER>Alcibiades</SPEAKER>
+            <LINE>And it shall buy your banishment, instead</LINE>
+            <LINE>Of public shameful death. -To that Lord Timon</LINE>
+            <LINE>Whose will must seal your sentence, yield consent</LINE>
+            <LINE>To so much mercy.</LINE></SPEECH>
+                
+            <SPEECH><SPEAKER>Lucullus</SPEAKER>
+            <LINE>Mercy from him! - Would I were Timon's dog</LINE>
+            <LINE>Rather than what I am. Egregious dotard!</LINE></SPEECH>
+                
+            <SPEECH><SPEAKER>Lucius</SPEAKER>
+            <LINE>I have no heart to speak - all swept away</LINE>
+            <LINE>My hangings, couches, vestments wrought with gold--</LINE>
+            </SPEECH></msScript>
+        </pb>
+        <pb>
+            <!-- Handwritten dialogue on the blank page three after printed page 148 -->
+            <msScript>
+                <SPEECH><SPEAKER>Lucius</SPEAKER>
+                <LINE>Oh what a luckless piece of work is man!</LINE></SPEECH>
+                <SPEECH><SPEAKER>Alcibiades</SPEAKER>
+                <LINE>Bring them along</LINE>
+                <LINE>To the lone wood, where wretched Timon haunts, </LINE>
+                <LINE>The exile of mankind.</LINE></SPEECH>
+            </msScript>
+            <msStageDir>
+                Enter Soldier 2c as before
+            </msStageDir>
+            <msStageDir>See back p. 148</msStageDir>
+        </pb>
+    </pb>
+</body>
